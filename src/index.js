@@ -1,3 +1,5 @@
+var teste;
+
 console.log('teste');
 
 const teste = aaaa => {
