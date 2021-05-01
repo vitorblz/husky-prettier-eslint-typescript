@@ -1,4 +1,4 @@
-var teste;
+var test;
 
 console.log('teste');
 
